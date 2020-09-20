@@ -16,5 +16,6 @@
     "react": "^16.13.1",
     "react-native": "^0.63.0",
     "react-native-web": "^0.13.3"
-  }
+  },
+  "gitHead": "61f0acf96627711c80a2c1f0f38fac493808d4d5"
 }
