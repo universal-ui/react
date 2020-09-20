@@ -2,5 +2,6 @@
   "name": "@react-universal-ui/core",
   "version": "0.0.2",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "88b8bbafcf986f1b3a78c3fd2e2254f6651edb0e"
 }

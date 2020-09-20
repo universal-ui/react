@@ -5,5 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@react-universal-ui/core": "^0.0.2"
-  }
+  },
+  "gitHead": "88b8bbafcf986f1b3a78c3fd2e2254f6651edb0e"
 }
