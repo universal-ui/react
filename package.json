@@ -1,6 +1,7 @@
 {
   "name": "root",
   "license": "MIT",
+  "author": "Cloud Le <lehaoson@gmail.com> (https://github.com/cloudle/)",
   "workspaces": [
     "packages/*",
     "example"
