@@ -1,5 +1,5 @@
 {
-  "name": "example",
+  "name": "@react-universal-ui/example",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,5 @@
     "react-native": "^0.63.0",
     "react-native-web": "^0.13.3"
   },
-  "gitHead": "dfc238e40efc9a73d8b1837cfd45700d774b1633"
+  "gitHead": "e13c0c91ad22c34adef3b3aee5586d104488f5fa"
 }
