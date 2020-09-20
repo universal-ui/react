@@ -1,7 +1,7 @@
 {
   "name": "@react-universal-ui/core",
   "private": false,
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "75fe0870d8451207604050e0861ea271141ed5a8"
