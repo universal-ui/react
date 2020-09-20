@@ -1,10 +1,10 @@
 {
   "name": "@react-universal-ui/components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@react-universal-ui/core": "^0.0.2"
+    "@react-universal-ui/core": "^0.0.3"
   },
   "gitHead": "88b8bbafcf986f1b3a78c3fd2e2254f6651edb0e"
 }
