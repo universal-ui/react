@@ -1,8 +1,21 @@
 {
   "name": "@react-universal-ui/core",
-  "private": false,
   "version": "0.0.9",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-universal-ui",
+    "universal-ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/universal-ui/react.git",
+    "directory": "packages/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "75fe0870d8451207604050e0861ea271141ed5a8"
+  "gitHead": "36dc7aac76f9291f2ed6cf19bbf8c52c99c71587"
 }

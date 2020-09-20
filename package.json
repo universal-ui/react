@@ -2,6 +2,20 @@
   "name": "root",
   "license": "MIT",
   "author": "Cloud Le <lehaoson@gmail.com> (https://github.com/cloudle/)",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-universal-ui",
+    "universal-ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/universal-ui/react.git",
+    "directory": "packages/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "workspaces": [
     "packages/*",
     "example"

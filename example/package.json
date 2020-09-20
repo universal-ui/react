@@ -1,10 +1,22 @@
 {
   "name": "@react-universal-ui/example",
-  "private": true,
   "version": "0.0.9",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-universal-ui",
+    "universal-ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/universal-ui/react.git",
+    "directory": "packages/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "",
   "main": "index.js",
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
