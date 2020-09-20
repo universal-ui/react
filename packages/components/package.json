@@ -1,9 +1,9 @@
 {
   "name": "@react-universal-ui/components",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@react-universal-ui/core": "^1.0.0"
+    "@react-universal-ui/core": "^0.0.1"
   }
 }
