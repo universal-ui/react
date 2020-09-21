@@ -1,6 +1,6 @@
 {
   "name": "@react-universal-ui/core",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "keywords": [
     "react",
     "react-native",
@@ -28,8 +28,16 @@
     "clean": "del lib"
   },
   "license": "MIT",
-  "gitHead": "1a55b209dbbd328bd911e9648a2cea56dc7c924a",
+  "gitHead": "ffb9e22714ee328b8a580cea97cc4227580c44f4",
   "devDependencies": {
     "@react-native-community/bob": "^0.16.2"
+  },
+  "@react-native-community/bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      "commonjs",
+      "module"
+    ]
   }
 }

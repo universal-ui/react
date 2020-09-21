@@ -1,6 +1,6 @@
 {
   "name": "@react-universal-ui/components",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "keywords": [
     "react",
     "react-native",
@@ -18,9 +18,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@react-universal-ui/core": "^0.0.12"
+    "@react-universal-ui/core": "^0.0.13"
   },
-  "gitHead": "1a55b209dbbd328bd911e9648a2cea56dc7c924a",
+  "gitHead": "ffb9e22714ee328b8a580cea97cc4227580c44f4",
   "devDependencies": {
     "@react-native-community/bob": "^0.16.2"
   }
