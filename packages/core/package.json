@@ -1,6 +1,6 @@
 {
   "name": "@react-universal-ui/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "react",
     "react-native",
@@ -15,7 +15,21 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "index.js",
+  "main": "lib/common/index.js",
+  "react-native": "src/index.js",
+  "source": "src/index.js",
+  "module": "lib/module/index.js",
+  "files": [
+    "src",
+    "lib"
+  ],
+  "scripts": {
+    "prepare": "bob build",
+    "clean": "del lib"
+  },
   "license": "MIT",
-  "gitHead": "1a55b209dbbd328bd911e9648a2cea56dc7c924a"
+  "gitHead": "1a55b209dbbd328bd911e9648a2cea56dc7c924a",
+  "devDependencies": {
+    "@react-native-community/bob": "^0.16.2"
+  }
 }
