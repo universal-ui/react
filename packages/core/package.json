@@ -1,6 +1,6 @@
 {
   "name": "@react-universal-ui/core",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "keywords": [
     "react",
     "react-native",
@@ -17,5 +17,5 @@
   },
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "36dc7aac76f9291f2ed6cf19bbf8c52c99c71587"
+  "gitHead": "d08a24d9bf6189a42107f470147cc91d56342160"
 }
