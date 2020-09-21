@@ -1,6 +1,6 @@
 {
   "name": "@react-universal-ui/example",
-  "version": "0.0.11",
+  "version": "0.0.1",
   "keywords": [
     "react",
     "react-native",
@@ -30,5 +30,5 @@
     "react-native": "^0.63.0",
     "react-native-web": "^0.13.3"
   },
-  "gitHead": "d08a24d9bf6189a42107f470147cc91d56342160"
+  "gitHead": "1a55b209dbbd328bd911e9648a2cea56dc7c924a"
 }
