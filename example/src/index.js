@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Text, } from 'react-native';
+import { Provider, Floats, } from '@react-universal-ui/components';
 
 import HomeScreen from './screens/home';
 
@@ -8,9 +9,12 @@ type Props = {
 };
 
 const App = (props: Props) => {
-	return <View style={styles.container}>
-		<HomeScreen/>
-	</View>;
+	return <Provider>
+		<View style={styles.container}>
+			<HomeScreen/>
+			<Floats/>
+		</View>
+	</Provider>;
 };
 
 export default App;
