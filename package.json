@@ -8,6 +8,7 @@
     "react-universal-ui",
     "universal-ui"
   ],
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/universal-ui/react.git",
